@@ -1,2 +1,4 @@
-jakartaee\first\resources\JakartaEE11Resource.class
-jakartaee\first\JakartaRestConfiguration.class
+jakartaee\hr_point\resources\JakartaEE11Resource.class
+jakartaee\hr_point\Login.class
+jakartaee\hr_point\LoginServlet.class
+jakartaee\hr_point\JakartaRestConfiguration.class
